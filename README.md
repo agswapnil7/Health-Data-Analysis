@@ -9,7 +9,7 @@ The project analyzes hospital datasets to identify patterns in healthcare delive
 * **`healthcare.csv`**: The primary dataset containing healthcare records.
 * **`Hospital_Data_Cleaned_Swapnil.csv`**: A processed version of the dataset where missing values and inconsistencies have been handled.
 * **`health.ipynb`**: Jupyter Notebook containing the Exploratory Data Analysis (EDA) and data cleaning scripts.
-* **`Hospital Efficiency.pdf`**: A detailed report discussing the findings and metrics related to hospital performance.
+* **`Healthcare_Analysis_Report.docx`**: A detailed report discussing the findings and metrics related to hospital performance.
 
 ## 🛠️ Tech Stack
 * **Language:** Python
